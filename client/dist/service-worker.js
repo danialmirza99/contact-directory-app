@@ -82,7 +82,7 @@ define(['./workbox-8b6cdeda'], (function (workbox) { 'use strict';
    */
   workbox.precacheAndRoute([{
     "url": "cards.bundle.js",
-    "revision": "982e102796bea4b9c695534f041c5aca"
+    "revision": "466ab476c5c0bb9a3a571a8c3d5beb89"
   }, {
     "url": "index.html",
     "revision": "e7286a87bb94e7a8a8b3b6889705019c"
